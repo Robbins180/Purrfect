@@ -8,7 +8,7 @@ Purrfect Home as agreed to let me share this design being while still being cont
 
 Screenshots :
 
-![Purrfect-Full](https://user-images.githubusercontent.com/68074115/144691719-aa0ab3c7-af68-4d5c-b11d-c42688d43b2e.png)
+![Purrfect-Full](https://user-images.githubusercontent.com/68074115/144691719-aa0ab3c7-af68-4d5c-b11d-c42688d43b2e.png "FUll IMG")
 
 
 ![Purrfect-Mid](https://user-images.githubusercontent.com/68074115/144691716-7816ce10-1850-48db-ae27-9593fa49138c.png)
