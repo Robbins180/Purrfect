@@ -1,5 +1,6 @@
 # Purrfect
 Purrfect Home is a Login webpage design with an Navbar included that eases users through the login process.
+This login was made specifically for Purrfect Home
 This template was used with Javascript and Bootstrap / CSS was included to add aditional design.
 
 
