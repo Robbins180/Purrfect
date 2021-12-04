@@ -8,13 +8,13 @@ Purrfect Home as agreed to let me share this design being while still being cont
 
 Screenshots :
 
-[Full Size](/https://user-images.githubusercontent.com/68074115/144691512-a0b7f59b-a559-4246-b732-e8177213197f.png?raw=true )
+![Purrfect-Full](https://user-images.githubusercontent.com/68074115/144691719-aa0ab3c7-af68-4d5c-b11d-c42688d43b2e.png)
 
-[Mid Size](/![Purrfect-Mid](https://user-images.githubusercontent.com/68074115/144691434-c8f871c7-6506-4d7f-841f-fb32bf3a46f5.png?raw=true )
 
-[Phone Size](/![Purrfect-phone](https://user-images.githubusercontent.com/68074115/144691541-f4faf72e-12d7-469b-8cc7-d21241945344.png?raw=true )
+![Purrfect-Mid](https://user-images.githubusercontent.com/68074115/144691716-7816ce10-1850-48db-ae27-9593fa49138c.png)
 
-[Phone Size](/![Purrfect-Nav](https://user-images.githubusercontent.com/68074115/144691562-f2a40939-acd3-4651-909c-247b21d22a65.png?raw=true )
+
+![Purrfect-phone](https://user-images.githubusercontent.com/68074115/144691710-3f1e0d6c-8f19-4a5a-8cf8-71eb0d389fa6.png)
 
 ![Purrfect-Nav](https://user-images.githubusercontent.com/68074115/144691676-f0fb010e-8a21-4224-b531-0a5e464711b9.png)
 
