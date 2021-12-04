@@ -8,6 +8,6 @@ Purrfect Home as agreed to let me share this design being while still being cont
 
 Screenshots :
 
-![Mid Size](/![Purrfect-Mid](https://user-images.githubusercontent.com/68074115/144691434-c8f871c7-6506-4d7f-841f-fb32bf3a46f5.png?raw=true)
+[Mid Size](/![Purrfect-Mid](https://user-images.githubusercontent.com/68074115/144691434-c8f871c7-6506-4d7f-841f-fb32bf3a46f5.png?raw=true "Mid Size")
 
 
